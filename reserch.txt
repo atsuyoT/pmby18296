@@ -1,4 +1,6 @@
-site color combinations
+///my published site https://atsuyot.github.io/pmby18296/
+
+///site color combinations
 https://visme.co/blog/website-color-schemes/
 2 Bright Accent Colors;
     #242582
