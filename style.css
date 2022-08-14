@@ -4,6 +4,10 @@
         color: #818181;
     }
 
+    h1:hover {
+        color: lime;
+    }
+
     h2 {
         font-size: 24px;
         text-transform: uppercase;
